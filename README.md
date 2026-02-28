@@ -44,7 +44,11 @@
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Binance" src="https://img.shields.io/badge/Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black">
     <img align="center" alt="CCXT" src="https://img.shields.io/badge/CCXT-3776AB?style=for-the-badge&logo=powershell&logoColor=white">
-    <br><br>
+    <br><br>
+    <img align="center" alt="REST API" src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logo=json&logoColor=white">
+    <img align="center" alt="Websockets" src="https://img.shields.io/badge/Websockets-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+    <img align="center" alt="Microservices" src="https://img.shields.io/badge/Microservices-FF6600?style=for-the-badge&logo=architecture&logoColor=white">
+    <br><br>
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <img align="center" alt="Agile Methodology" src="https://img.shields.io/badge/Agile%20Methodologies-0052CC?style=for-the-badge&logo=jira&logoColor=white">
