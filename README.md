@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Manoel+Victor+Duarte+👋;Decision+Intelligence+|+BI+%26+Data+Analytics;Software+Engineer+|+AI+Specialist;Construindo+Ecossistemas+Preditivos;Transformando+Dados+em+Decisões+Estratégicas)](https://git.io/typing-svg)
 
   <p align="center">
-    <strong>Produto & Processos | BI & Data Analytics para CX | Inovação Tech com IA</strong> <br>
+    <strong>Produto & Processos | BI & Data Analytics | Inovação Tech com IA</strong> <br>
     Especialista em Decision Intelligence focado em reduzir ruídos operacionais e gerar previsibilidade estratégica através de IA. <br>
     Minha trajetória une o rigor de ambientes regulatórios complexos à agilidade do desenvolvimento de software moderno.
   </p>
@@ -51,7 +51,7 @@
 
   ---
 
-  ### 🐍 Histórico de Contribuições (Snake Mode)
+  ### 🐍 Histórico de Contribuições 
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/github-contribution-grid-snake-dark.svg">
