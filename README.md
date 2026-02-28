@@ -5,20 +5,20 @@
   <p align="center">
     <strong>Produto & Processos | BI & Data Analytics para CX | Inovação Tech com IA</strong> <br>
     Especialista em Decision Intelligence focado em reduzir ruídos operacionais e gerar previsibilidade estratégica através de IA. <br>
-    Minha trajetória une o rigor de ambientes regulatórios complexos à agilidade do desenvolvimento de software moderno[cite: 13, 80].
+    Minha trajetória une o rigor de ambientes regulatórios complexos à agilidade do desenvolvimento de software moderno.
   </p>
 
-  ### 📊 Dashboards de Performance (Real-time)
+  ### 📊 Dashboards de Performance (Live Update)
   
   <a href="https://github.com/ManoelVictorD">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManoelVictorD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManoelVictorD&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManoelVictorD&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 
   ---
 
   ### 🛠️ Core Stack & Expertise
-  *Mapeamento técnico baseado em projetos de larga escala e automação industrial.*
+  *Mapeamento técnico baseado em projetos de larga escala e automação inteligente.*
 
   <div style="display: inline_block; margin-top: 10px;">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -28,6 +28,7 @@
     <br><br>
     <img align="center" alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img align="center" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img align="center" alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL%20%26%20ETL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
     <br><br>
@@ -41,16 +42,16 @@
 
   ### 🚀 Portfólio de Inovação Selecionado
   
-  - [cite_start]**Pulse360 Strategic Intelligence:** Ecossistema preditivo para governança de dados, unindo IA e BI[cite: 101].
-  - [cite_start]**Bot de Trading LSTM:** Automação financeira baseada em Redes Neurais Recorrentes (RNN)[cite: 117, 118].
-  - [cite_start]**IA Diagnostic:** Uso de Redes Convolucionais (PyTorch) para auxílio ao diagnóstico médico por imagem[cite: 114, 115].
-  - [cite_start]**Guardião Digital:** Plataforma Full-Stack para análise preditiva de ameaças cibernéticas[cite: 107, 108].
-  - [cite_start]**TalentPulse AI:** Web Scraping e análise de competitividade no mercado de TI[cite: 103, 104].
-  - [cite_start]**Autor:** Obra "IA - O Futuro é Agora", focada em Prompt Engineering e UX aplicada[cite: 120, 121].
+  - **Pulse360 Strategic Intelligence:** Ecossistema preditivo para governança de dados, unindo IA e BI para antecipar gargalos operacionais.
+  - **Bot de Trading LSTM:** Automação financeira baseada em Redes Neurais Recorrentes (RNN) para análise de séries temporais.
+  - **IA Diagnostic:** Uso de Redes Convolucionais (PyTorch) para auxílio ao diagnóstico médico por imagem.
+  - **Guardião Digital:** Plataforma Full-Stack para análise preditiva de ameaças e vulnerabilidades cibernéticas.
+  - **TalentPulse AI:** Web Scraping e análise de competitividade no mercado de TI para mapeamento de tendências.
+  - **Autor:** Obra "IA - O Futuro é Agora", focada em Prompt Engineering e UX aplicada à IA Generativa.
 
   ---
 
-  ### 🐍 Histórico de Contribuições
+  ### 🐍 Histórico de Contribuições (Snake Mode)
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/github-contribution-grid-snake-dark.svg">
