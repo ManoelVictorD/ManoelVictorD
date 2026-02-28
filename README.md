@@ -41,6 +41,10 @@
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <img align="center" alt="Agile Methodology" src="https://img.shields.io/badge/Agile%20Methodologies-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+    <br><br>
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img align="center" alt="Binance" src="https://img.shields.io/badge/Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black">
+    <img align="center" alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=fortinet&logoColor=white">
   </div>
 
   ---
