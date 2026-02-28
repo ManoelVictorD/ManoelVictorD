@@ -8,17 +8,17 @@
     and scalable software solutions that solve real-world problems.
   </p>
 
-  ### 📊 Dashboards de Performance (Automáticos)
+  ### 📊 Dashboards de Performance (Atualização Automática)
   
   <a href="https://github.com/ManoelVictorD">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManoelVictorD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManoelVictorD&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManoelVictorD&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&hide_border=true"/>
   </a>
 
   ---
 
   ### 🛠️ Stacks & Tecnologias
-  *Mapeamento dinâmico de ferramentas e frameworks utilizados em meus projetos.*
+  *Mapeamento dinâmico de ferramentas e frameworks detectados em meus repositórios.*
 
   <div style="display: inline_block; margin-top: 10px;">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -42,9 +42,9 @@
   ### 🐍 Histórico de Contribuições
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManoelVictorD/ManoelVictorD/output/github-contribution-grid-snake.svg">
   </picture>
 
   ---
