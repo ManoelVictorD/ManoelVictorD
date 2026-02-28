@@ -40,7 +40,7 @@
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    <img align="center" alt="Agile Methodology" src="https://img.shields.io/badge/Agile Methodology%20Methodologies-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+    <img align="center" alt="Agile Methodology" src="https://img.shields.io/badge/Agile%20Methodologies-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </div>
 
   ---
